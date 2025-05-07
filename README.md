@@ -84,3 +84,4 @@ The model can detect diseases in the following plants:
 ## Support
 
 For issues or questions, please contact [Your Contact Information] 
+For issues or questions, please contact [Your Contact Information] 
